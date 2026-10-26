@@ -50,17 +50,6 @@ This project is Phase 8 of an E-commerce Order Automation system. It focuses on 
 - 📦 Verified that product stock remained unchanged during exception-handling tests.
 - 🔀 Tested valid and invalid order branches.
 
-## 🖼️ Workflow Screenshots
-Add screenshots to the `screenshots/` folder and display them here.
-
-### 🔗 Complete Workflow
-![Complete n8n Workflow](screenshots/complete-workflow.png)
-
-### 📝 Exception Records
-![Exception Log](screenshots/exception-records.png)
-
-### 📧 Email Alert
-![Email Alert](screenshots/email-alert.png)
 
 ## ⚠️ Important Notes
 - The current JavaScript validation code uses a predefined product catalogue. Reading product details dynamically from Google Sheets is a future improvement.
